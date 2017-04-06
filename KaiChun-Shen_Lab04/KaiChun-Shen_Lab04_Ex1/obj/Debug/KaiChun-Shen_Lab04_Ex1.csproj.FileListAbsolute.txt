@@ -1,0 +1,6 @@
+C:\Users\user\Documents\COMP 212 - Programming 3\Labs\KaiChun-Shen_Lab04\KaiChun-Shen_Lab04\KaiChun-Shen_Lab04_Ex1\bin\Debug\KaiChun-Shen_Lab04_Ex1.exe.config
+C:\Users\user\Documents\COMP 212 - Programming 3\Labs\KaiChun-Shen_Lab04\KaiChun-Shen_Lab04\KaiChun-Shen_Lab04_Ex1\bin\Debug\KaiChun-Shen_Lab04_Ex1.exe
+C:\Users\user\Documents\COMP 212 - Programming 3\Labs\KaiChun-Shen_Lab04\KaiChun-Shen_Lab04\KaiChun-Shen_Lab04_Ex1\bin\Debug\KaiChun-Shen_Lab04_Ex1.pdb
+C:\Users\user\Documents\COMP 212 - Programming 3\Labs\KaiChun-Shen_Lab04\KaiChun-Shen_Lab04\KaiChun-Shen_Lab04_Ex1\obj\Debug\KaiChun-Shen_Lab04_Ex1.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\COMP 212 - Programming 3\Labs\KaiChun-Shen_Lab04\KaiChun-Shen_Lab04\KaiChun-Shen_Lab04_Ex1\obj\Debug\KaiChun-Shen_Lab04_Ex1.exe
+C:\Users\user\Documents\COMP 212 - Programming 3\Labs\KaiChun-Shen_Lab04\KaiChun-Shen_Lab04\KaiChun-Shen_Lab04_Ex1\obj\Debug\KaiChun-Shen_Lab04_Ex1.pdb
